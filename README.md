@@ -28,3 +28,6 @@ Jenis manipulasi ini dapat digunakan untuk menyebarkan informasi palsu
 di kalangan publik dengan menukar wajah dengan wajah
 seorang tokoh terkenal.
 
+Sehingga project ini dibuat guna mengatasi permasalahan yang dapat
+ditimbulkan akibat penyalahgunaan deepfake ini di khalayak umum
+agar dapat memilah mana yang asli dan mana yang palsu dari penggunaan AI yang masif dijaman sekarang.
